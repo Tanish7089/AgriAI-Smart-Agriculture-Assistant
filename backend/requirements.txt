@@ -1,0 +1,10 @@
+flask
+flask-cors
+mysql-connector-python
+python-dotenv
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+langchain-groq
+chromadb
